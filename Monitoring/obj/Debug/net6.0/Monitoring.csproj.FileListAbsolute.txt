@@ -1,0 +1,12 @@
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\bin\Debug\net6.0\Monitoring.deps.json
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\bin\Debug\net6.0\Monitoring.dll
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\bin\Debug\net6.0\Monitoring.pdb
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\obj\Debug\net6.0\Monitoring.csproj.AssemblyReference.cache
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\obj\Debug\net6.0\Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\obj\Debug\net6.0\Monitoring.AssemblyInfoInputs.cache
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\obj\Debug\net6.0\Monitoring.AssemblyInfo.cs
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\obj\Debug\net6.0\Monitoring.csproj.CoreCompileInputs.cache
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\obj\Debug\net6.0\Monitoring.dll
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\obj\Debug\net6.0\refint\Monitoring.dll
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\obj\Debug\net6.0\Monitoring.pdb
+C:\Work\SoftwareDev\DLS\RockPaperScissor-Monolith(1)\Monitoring\obj\Debug\net6.0\ref\Monitoring.dll
